@@ -15,6 +15,6 @@ public class HelloWorld {
         System.out.println("After swapping:");
         System.out.println("x" + " = " + x);
         System.out.println("y" + " = " + y);
-        // System.out.println("The sum of " + x + " and " + y + " is: "  +sum);
+        System.out.println("The sum of " + x + " and " + y + " is: "  +sum);
     }
 }
