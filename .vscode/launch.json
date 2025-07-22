@@ -5,8 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java", 
-
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java"
         },
         {
             "type": "java",
