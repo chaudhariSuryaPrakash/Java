@@ -16,5 +16,8 @@ public class HelloWorld {
         System.out.println("x" + " = " + x);
         System.out.println("y" + " = " + y);
         // System.out.println("The sum of " + x + " and " + y + " is: "  +sum);
+        // haha hereis i'm entered
     }
 }
+
+// user input in java 

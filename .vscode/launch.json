@@ -5,32 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "StudentResult",
-            "request": "launch",
-            "mainClass": "StudentResult",
-            "projectName": "Java_b3f886b3"
-        },
-        {
-            "type": "java",
-            "name": "input1",
-            "request": "launch",
-            "mainClass": "input1",
-            "projectName": "Java_b3f886b3"
-        },
-        {
-            "type": "java",
-            "name": "Input",
-            "request": "launch",
-            "mainClass": "Input",
-            "projectName": "Java_b3f886b3"
-        },
-        {
-            "type": "java",
-            "name": "input",
-            "request": "launch",
-            "mainClass": "input",
-            "projectName": "Java_b3f886b3"
+            "type": "java", 
+
         },
         {
             "type": "java",
