@@ -19,3 +19,5 @@ public class HelloWorld {
         // haha hereis i'm entered
     }
 }
+
+// user input in java 

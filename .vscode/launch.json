@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "Exampler",
             "request": "launch",
             "mainClass": "Exampler",
