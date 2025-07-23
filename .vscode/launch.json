@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "marksheet",
+            "request": "launch",
+            "mainClass": "marksheet",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "UserInput",
             "request": "launch",
             "mainClass": "UserInput",
