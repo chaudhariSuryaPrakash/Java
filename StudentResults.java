@@ -1,6 +1,6 @@
 //write a program to enter marks of a student and declear result pass or fail if more than 40
 import java.util.Scanner;
-public class StudentResult {
+public class StudentResults {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

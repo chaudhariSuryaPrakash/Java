@@ -41,6 +41,6 @@ double num1 = 10e2;
 double num2 = 10_00_00_000;
 System.out.println(num1);
 System.out.println(num2);
-//         sc.close();
+        sc.close();
     }
 }
