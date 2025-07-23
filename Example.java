@@ -10,7 +10,7 @@ public class Example
 
     // public void show() 
     // {
-        Scanner sc = new Scanner(System.in);
+        Scanner a = new Scanner(System.in);
     //     int number = scanner.nextInt();
     //     if (number > 0) 
     //     {
@@ -24,14 +24,22 @@ public class Example
     //     {
     //         System.out.println("The number is zero.");
     //     }
-    while(true){
-        System.out.print("Enter your no: ");
-        int num1 = sc.nextInt();
+    while (true) {
+            System.out.print("Enter your number (or type -1 to exit): ");
+            int num1 = a.nextInt();
 
-        if (num1 % 2 == 0) {
-            System.out.println(num1 + " is Even");
-        } else {
-            System.out.println(num1 + " is Odd");
-        }}
+            if (num1 == -1) {
+                System.out.println("Exiting...");
+                break;
+            }
+
+            if (num1 % 2 == 0) {
+                System.out.println(num1 + " is Even");
+            } else {
+                System.out.println(num1 + " is Odd");
+            }
+        }
+
+        a.close();
     }
 }
