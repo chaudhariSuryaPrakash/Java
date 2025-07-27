@@ -27,15 +27,20 @@ public class UserInput {
 //             System.out.println(num1 + " is Odd");
 //         }}
   
-int marks1 = 1;
-while(marks1 != 0) {
+// int marks1 = 1;
+// while(marks1 != 0) {
         
-        System.out.print("Enter your no: ");
-         marks1 = sc.nextInt();
+//         System.out.print("Enter your no: ");
+//          marks1 = sc.nextInt();
 
-        String result = (marks1>40 ? "Pass" : "Fail");
-        System.out.println(result);
-}
+//         String result = (marks1>40 ? "Pass" : "Fail");
+//         System.out.println(result);
+// }
+
+double num1 = 10e2;
+double num2 = 10_00_00_000;
+System.out.println(num1);
+System.out.println(num2);
         sc.close();
     }
 }

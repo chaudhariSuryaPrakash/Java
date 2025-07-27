@@ -11,6 +11,7 @@ class input {
         System.out.print("Enter the second number: ");
         int number2 = input.nextInt();
         System.out.println("You entered " + number2);
+        System.out.println("You entered " + number1);
 
         // closing the scanner object
         input.close();
