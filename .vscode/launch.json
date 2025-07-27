@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "classandobj",
+            "request": "launch",
+            "mainClass": "classandobj",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "marksheet",
             "request": "launch",
             "mainClass": "marksheet",
